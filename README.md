@@ -1,5 +1,6 @@
 # bookStoreApi
 [![Build Status](https://travis-ci.com/deytola/bookStoreApi.svg?branch=master)](https://travis-ci.com/deytola/bookStoreApi)
+
 A RESTful web service for a bookstore web app
 
 ## Getting Started
